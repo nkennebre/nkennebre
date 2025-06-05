@@ -28,15 +28,9 @@
 
 ### Hi 👋 I'm Max Kennebrew
 - 🎓 M.S. in Computer Science
-- 🏒 Hockey player, fan, and sports data nerd
+- 🏒 Hockey player, Tennis player, all sports fan, and sports data nerd
 - 📊 Building a portfolio in sports analytics — with a focus on women’s sports
 - 👻 Currently obsessed with: Luigi’s Mansion
-
----
-
-### :ice_hockey: About Me :
-
-I am a computer science graduate student. My concentration is intelligent systems. 
 
 ---
 
@@ -51,7 +45,20 @@ I am a computer science graduate student. My concentration is intelligent system
 
 - 🏋️‍♀️: Fun fact: I currenlty hold my gym's bench press, front squat, and back squat records.
 
-- :hand: I'm looking to collaborate on any Kaggle competition.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("linkedin.com/in/maxinekennebrew")
+###  🛠 Tech I Use
+- Python, Pandas, Scikit-learn, LightGBM
+
+- SQLite, SQLAlchemy, Poetry
+
+- C, Embedded ML, Fast Fourier Transform, TSFEL
+
+- VS Code, Jupyter, Git, Kaggle, Linux (WSL)
+
+###  📣 Let’s Connect
+- 🏆 Open to collaborating on Kaggle competitions
+
+- 💬 Always down to talk sports, data, and Luigi
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("linkedin.com/in/maxinekennebrew")
 
