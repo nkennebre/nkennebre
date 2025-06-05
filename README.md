@@ -17,7 +17,7 @@
        
 </div>
   
-  ### Hi 👋 I'm Max Kennebrew
+  
   
   <img src="https://komarev.com/ghpvc/?username=nkennebre&style=flat-square&color=blue" alt=""/>
   
@@ -26,17 +26,28 @@
   <img src="https://i.imgur.com/LmHBegx.gif" width="600" height="300"/>
 </div>
 
+### Hi 👋 I'm Max Kennebrew
+- 🎓 M.S. in Computer Science
+- 🏒 Hockey player, fan, and sports data nerd
+- 📊 Building a portfolio in sports analytics — with a focus on women’s sports
+- 👻 Currently obsessed with: Luigi’s Mansion
+
 ---
 
 ### :ice_hockey: About Me :
 
 I am a computer science graduate student. My concentration is intelligent systems. 
 
-- :robot: I’m currently working on my final graduate project.
+---
 
-- 🛴: I'm currently learning about embedded software applications.
+### 🔬 What I’m working on
+- 🏀 A complete WNBA data pipeline from ETL to modeling
 
-- 🎮: In my free time, I am all about Rocket League right now.
+- 📈 End-to-end machine learning projects using real-world sports data
+
+- ⚙️ Embedded machine learning for edge devices (from Python to C)
+
+- 💡 Exploring team performance metrics, predictive modeling, and interactive visualizations
 
 - 🏋️‍♀️: Fun fact: I currenlty hold my gym's bench press, front squat, and back squat records.
 
